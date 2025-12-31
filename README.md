@@ -1,15 +1,42 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Cross-platform mobile apps using Flutter, scalable backends using Go (Golang), Java, and PostgreSQL, and modern web apps with React / Next.js.<br>👯 I’m looking to collaborate on<br>Startup ideas, SaaS products, mobile apps, backend systems, and open-source projects related to Flutter, web, backend and cloud-based architectures.<br>🤝 I’m looking for help with<br>System design at scale, backend performance optimization, and advanced Go + distributed systems patterns.<br>🌱 I’m currently learning<br>Go (deep dive), backend scalability, system design, and security best practices.<br>💬 Ask me about<br>Flutter, mobile app architecture, GraphQL (Hasura), Go backends, PostgreSQL, AWS (S3, SES), and building MVPs for startups.<br>⚡ Fun fact<br>I enjoy turning complex business requirements into clean, scalable code — and I care a lot about good UX.
+# Hi there, I'm Syed Arbaz! 👋
 
+I'm a **Full-Stack Developer** with 1.5+ years of experience building scalable web and mobile solutions. Currently, I'm working at **Brewszilla Technologies**, bridging the gap between sleek front-ends and robust back-ends.
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=syedarbaz-2306&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=syedarbaz-2306&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=syedarbaz-2306&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 🚀 About Me
+
+- 🔭 **I’m currently working on:** Developing cross-platform mobile apps using **Flutter** and high-performance backends with **Go** and **Hasura**.
+- 🌱 **I’m currently learning:** Mastering **Data Structures & Algorithms (DSA)** in Java and deep-diving into advanced **SQL** with Docker & PostgreSQL.
+- 👯 **I’m looking to collaborate on:** Open-source projects involving **SvelteKit**, **Flutter**, or **Go**.
+- 🤝 **I’m looking for help with:** Advanced query optimization and complex system design patterns.
+- 💬 **Ask me about:** Building apps with **SvelteKit & Tailwind**, managing state in **Flutter**, or setting up GraphQL backends with **Hasura** and **AWS** integration.
+- ⚡ **Fun fact:** When I'm not coding, I have a keen interest in natural skincare remedies! 🌿
 
 ---
-[![](https://visitcount.itsvg.in/api?id=syedarbaz-2306&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+**Languages**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Web & Mobile**
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Cloud**
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Hasura](https://img.shields.io/badge/hasura-%231F5156.svg?style=for-the-badge&logo=hasura&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+![Syed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
