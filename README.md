@@ -1,42 +1,68 @@
-# Hi there, I'm Syed Arbaz! 👋
+# Hi, I'm Syed Arbaz 👋
 
-I'm a **Full-Stack Developer** with 1.5+ years of experience building scalable web and mobile solutions. Currently, I'm working at **Brewszilla Technologies**, bridging the gap between sleek front-ends and robust back-ends.
+## Full-Stack Developer | Mobile & Web
 
-## 🚀 About Me
-
-- 🔭 **I’m currently working on:** Developing cross-platform mobile apps using **Flutter** and high-performance backends with **Go** and **Hasura**.
-- 🌱 **I’m currently learning:** Mastering **Data Structures & Algorithms (DSA)** in Java and deep-diving into advanced **SQL** with Docker & PostgreSQL.
-- 👯 **I’m looking to collaborate on:** Open-source projects involving **SvelteKit**, **Flutter**, or **Go**.
-- 🤝 **I’m looking for help with:** Advanced query optimization and complex system design patterns.
-- 💬 **Ask me about:** Building apps with **SvelteKit & Tailwind**, managing state in **Flutter**, or setting up GraphQL backends with **Hasura** and **AWS** integration.
-- ⚡ **Fun fact:** When I'm not coding, I have a keen interest in natural skincare remedies! 🌿
+I am a results-driven full-stack developer with hands-on experience building scalable mobile and web applications from concept to production. I specialize in cross-platform mobile development, backend system design, and cloud integrations, with a strong focus on performance, maintainability, and real-world usability.
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💼 For Recruiters
 
-**Languages**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+**What I bring to the team:**
 
-**Web & Mobile**
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- End-to-end development experience across **mobile, web, and backend systems**
+- Strong expertise in **Flutter** for cross-platform mobile applications
+- Backend development using **Java**, **Go (Golang)**.
+- Database design and management with **PostgreSQL**, and SQL
+- Experience integrating **AWS services** (S3, SES) for scalable media and communication workflows
+- Comfortable working in fast-paced environments, collaborating with cross-functional teams, and owning features end-to-end
 
-**Backend & Cloud**
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Hasura](https://img.shields.io/badge/hasura-%231F5156.svg?style=for-the-badge&logo=hasura&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+**Technical Skills:**
+
+- **Frontend:** Flutter, Dart, React.js, Next.js, JavaScript, TypeScript  
+- **Backend:** Java, Go (Golang). 
+- **Databases:** PostgreSQL, SQL.
+- **Cloud & Tools:** AWS (S3, SES), Git, GitHub, ClickUp  
+
+I am actively seeking opportunities where I can contribute to building reliable, scalable products while continuing to grow as an engineer.
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 For Startups & Collaborators
 
-![Syed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+**How I can help your product:**
+
+- Build **MVPs quickly** with production-ready architecture
+- Design **scalable backend systems** with clean separation of concerns
+- Develop **high-quality mobile apps** with consistent UI/UX across platforms
+- Integrate cloud services for storage, emails, and automation
+- Translate business requirements into clean, maintainable code
+
+**Ideal collaboration areas:**
+- Startup MVPs and early-stage products  
+- Mobile-first applications  
+- SaaS platforms  
+- Backend-heavy systems with GraphQL and microservices  
+
+I enjoy working closely with founders and small teams, taking ownership of features, and helping products move from idea to execution.
+
+---
+
+## 🌱 Currently Learning
+- Advanced Go (Golang) concepts  
+- Backend scalability & system design  
+- Security and performance optimization  
+
+---
+
+## 💬 Ask Me About
+Flutter architecture, backend system design, GraphQL with Hasura, Go services, PostgreSQL, AWS integrations, and building real-world products.
+
+---
+
+## ⚡ Fun Fact
+I enjoy simplifying complex systems and building software that balances performance, scalability, and user experience.
+
+---
+
+📫 **Open to opportunities, collaborations, and conversations**
